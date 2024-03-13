@@ -10,8 +10,9 @@
 * https://agit.ai/leevi/PiG/raw/branch/master/jsm.json
 * http://饭太硬.top/tv
 * http://肥猫.live
-* https://pastebin.com/raw/5NHaxyGR
-* http://home.jundie.top:81/top98.json
+* http://cdn.qiaoji8.com/tvbox.json
+* https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json
+* https://raw.gitmirror.com/gaotianliuyun/gao/master/0825.json
 * http://pandown.pro/tvbox/tvbox.json
 * https://download.kstore.space/download/2863/01.txt
 * https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
