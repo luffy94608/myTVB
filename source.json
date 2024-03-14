@@ -41,12 +41,10 @@
   {"name":"🍋┃飞┃云星","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
   {"name":"🦉┃飞┃猫爪","url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json"},
 
-  {"name": "注释","url":"单仓更新日期"},
   {"name": "码上放生","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json"},
   {"name": "小暴脾气","url":"http://xhww.fun/小米/DEMO.json"},
   {"name": "饭太硬线","url":"http://饭太硬.top/tv"},
   {"name": "欧歌家庭","url":"http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌"},
-  {"name": "云星家庭","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
   {"name": "月光宝盒","url":"https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json"},
   {"name": "刘备线路","url":"https://raw.liucn.cc/box/m.json"},
   {"name": "日后路线","url":"http://rihou.vip:55/天天开心"},
@@ -59,6 +57,31 @@
   {"name": "吾爱线一","url":"http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"},
   {"name": "霜辉月明","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
   {"name": "一木自用","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
-  {"name": "高天流云","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}
-]}
+  {"name": "高天流云","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
+  {"name": "🚀宝盒线路","url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"},
+  {"name": "🚀香雅情镜像线路","url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json"},
+  {"name": "🚀酷安潇洒哥线路","url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"},
+  {"name": "🚀FongMI线路", "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"},
+
+  {"name": "🚀荷城茶秀线路","url": "http://rihou.cc:99/荷城茶秀"},
+  {"name": "🚀骚 0线路", "url": "https://100km.top/0"},
+  {"name": "🚀霜辉月明 py","url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
+  {"name": "🚀高天流云","url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
+  {"name": "🚀高天流云 XYQ","url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
+  {
+    "name": "🚀南风线路",
+    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+  },
+  {
+    "name": "🚀神器线路",
+    "url": "https://神器每日推送.tk/pz.json"
+  },
+  {
+    "name": "🚀影探线路",
+    "url": "http://www.lyyytv.cn/yt/yt.json"
+  },
+  {
+    "name": "🚀dxawi线路",
+    "url": "http://dxawi.github.io/0/0.json"
+  }
 ]}
