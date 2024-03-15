@@ -1,5 +1,24 @@
 #TVBox
 
+##配置说明
+（1）0707.json  Fengmi影视多线配置接口,仅适用于Fengmi影视；
+
+（2）0821.json  大而全的配置，在饭太硬配置的基础上添加了若干优质点播源、直播线路和解析；
+
+（3）0825.json  小而精的配置，jar包来源于Panda Groove的jar，PG网盘的用法请看https://github.com/gaotianliuyun/gao/blob/gaotianliuyun-patch-1/README.md ；
+
+（4）0826.json  完全来源于饭太硬的jar包和配置；
+
+（5）0827.json  jar包和配置来源于fongmi；
+
+（6）js.json  jar 包来源于Panda Groove的go包，资源来源于道长drpy(js)仓库；
+
+（7）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气；
+
+（8）XYQ.json  XYQ源，jar包和配置来源于香雅情；
+
+（9）/cat/js/config_open.json  cat源，资源来源于网络各路大佬。配合猫影视可直接食用。
+
 ##下载地址
 
 [影视仓库软件下载](http://www.wmdz.com/tvbox1.html)
